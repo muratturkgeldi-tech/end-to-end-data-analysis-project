@@ -2,7 +2,6 @@
 
 An end-to-end data analytics project featuring ETL pipeline in Python, data modeling, SQL ground-truth metric validation, and an executive-level interactive Power BI dashboard.
 
-![Online Retail Analysis Dashboard](online_ratail_dashboard.pdf)
 
 ---
 
